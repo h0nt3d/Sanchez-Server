@@ -1,0 +1,17 @@
+@font-face {
+	font-family: Mecha;
+	src: url('assets/Mecha-GXPg.ttf');
+}
+
+@font-face {
+	font-family: Mecha-Head;
+	src: url('assets/MechaBold-j7X0.ttf');
+}
+h1 {
+	font-family: Mecha-Head;
+}
+
+div {
+	font-family: Mecha;
+	font-size:  22px;
+}
