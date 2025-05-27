@@ -17,6 +17,7 @@ I decided to make this project to practice React frontend and to you utilize an 
 `git clone https://github.com/h0nt3d/Sanchez-Server`
 
 2. Add device address in FileBrowser.js
+
 `const BACKENDADDRESS = "<device_address>:3001";`
 
 3. Inside the frontend directory install Node.js modules
@@ -24,6 +25,7 @@ I decided to make this project to practice React frontend and to you utilize an 
 `npm install`
 
 4. Start Backend Server
+
 `node index.js`
 
 5. Create production build
